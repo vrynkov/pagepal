@@ -1,0 +1,8 @@
+{
+  "id": "INC-1002",
+  "title": "codeatlas-worker restarted (OOMKilled)",
+  "service": "codeatlas-worker",
+  "severity": "SEV3",
+  "fired_at": "2026-10-28T14:29:00+00:00",
+  "details": "container restart count increased"
+}

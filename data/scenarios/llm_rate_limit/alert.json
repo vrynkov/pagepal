@@ -1,0 +1,8 @@
+{
+  "id": "INC-1003",
+  "title": "High 5xx error rate on codeatlas-api",
+  "service": "codeatlas-api",
+  "severity": "SEV2",
+  "fired_at": "2026-10-28T14:05:00+00:00",
+  "details": "error_rate_pct > 5 for 3 minutes"
+}

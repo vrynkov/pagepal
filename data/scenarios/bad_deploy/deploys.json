@@ -1,0 +1,12 @@
+[
+  {
+    "service": "codeatlas-api",
+    "version": "v1.7.3",
+    "finished_at": "2026-10-25T09:12:00+00:00"
+  },
+  {
+    "service": "codeatlas-api",
+    "version": "v1.8.0",
+    "finished_at": "2026-10-28T14:02:00+00:00"
+  }
+]
