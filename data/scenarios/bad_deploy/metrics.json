@@ -1,0 +1,482 @@
+[
+  {
+    "timestamp": "2026-10-28T13:30:00+00:00",
+    "error_rate_pct": 0.52,
+    "p95_latency_ms": 393,
+    "memory_mb": 405,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 114
+  },
+  {
+    "timestamp": "2026-10-28T13:31:00+00:00",
+    "error_rate_pct": 0.77,
+    "p95_latency_ms": 336,
+    "memory_mb": 393,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 85
+  },
+  {
+    "timestamp": "2026-10-28T13:32:00+00:00",
+    "error_rate_pct": 0.68,
+    "p95_latency_ms": 408,
+    "memory_mb": 426,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 116
+  },
+  {
+    "timestamp": "2026-10-28T13:33:00+00:00",
+    "error_rate_pct": 0.37,
+    "p95_latency_ms": 366,
+    "memory_mb": 426,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 90
+  },
+  {
+    "timestamp": "2026-10-28T13:34:00+00:00",
+    "error_rate_pct": 0.29,
+    "p95_latency_ms": 413,
+    "memory_mb": 408,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 100
+  },
+  {
+    "timestamp": "2026-10-28T13:35:00+00:00",
+    "error_rate_pct": 0.38,
+    "p95_latency_ms": 414,
+    "memory_mb": 438,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 89
+  },
+  {
+    "timestamp": "2026-10-28T13:36:00+00:00",
+    "error_rate_pct": 0.45,
+    "p95_latency_ms": 262,
+    "memory_mb": 394,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 89
+  },
+  {
+    "timestamp": "2026-10-28T13:37:00+00:00",
+    "error_rate_pct": 0.55,
+    "p95_latency_ms": 278,
+    "memory_mb": 417,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 107
+  },
+  {
+    "timestamp": "2026-10-28T13:38:00+00:00",
+    "error_rate_pct": 0.69,
+    "p95_latency_ms": 379,
+    "memory_mb": 405,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 89
+  },
+  {
+    "timestamp": "2026-10-28T13:39:00+00:00",
+    "error_rate_pct": 0.68,
+    "p95_latency_ms": 328,
+    "memory_mb": 410,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 83
+  },
+  {
+    "timestamp": "2026-10-28T13:40:00+00:00",
+    "error_rate_pct": 0.56,
+    "p95_latency_ms": 390,
+    "memory_mb": 401,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 96
+  },
+  {
+    "timestamp": "2026-10-28T13:41:00+00:00",
+    "error_rate_pct": 0.26,
+    "p95_latency_ms": 306,
+    "memory_mb": 380,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 84
+  },
+  {
+    "timestamp": "2026-10-28T13:42:00+00:00",
+    "error_rate_pct": 0.67,
+    "p95_latency_ms": 298,
+    "memory_mb": 392,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 86
+  },
+  {
+    "timestamp": "2026-10-28T13:43:00+00:00",
+    "error_rate_pct": 0.18,
+    "p95_latency_ms": 299,
+    "memory_mb": 404,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 114
+  },
+  {
+    "timestamp": "2026-10-28T13:44:00+00:00",
+    "error_rate_pct": 0.14,
+    "p95_latency_ms": 388,
+    "memory_mb": 381,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 85
+  },
+  {
+    "timestamp": "2026-10-28T13:45:00+00:00",
+    "error_rate_pct": 0.1,
+    "p95_latency_ms": 349,
+    "memory_mb": 413,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 109
+  },
+  {
+    "timestamp": "2026-10-28T13:46:00+00:00",
+    "error_rate_pct": 0.62,
+    "p95_latency_ms": 264,
+    "memory_mb": 386,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 117
+  },
+  {
+    "timestamp": "2026-10-28T13:47:00+00:00",
+    "error_rate_pct": 0.51,
+    "p95_latency_ms": 260,
+    "memory_mb": 390,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 106
+  },
+  {
+    "timestamp": "2026-10-28T13:48:00+00:00",
+    "error_rate_pct": 0.11,
+    "p95_latency_ms": 409,
+    "memory_mb": 392,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 84
+  },
+  {
+    "timestamp": "2026-10-28T13:49:00+00:00",
+    "error_rate_pct": 0.53,
+    "p95_latency_ms": 417,
+    "memory_mb": 447,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 80
+  },
+  {
+    "timestamp": "2026-10-28T13:50:00+00:00",
+    "error_rate_pct": 0.7,
+    "p95_latency_ms": 379,
+    "memory_mb": 442,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 96
+  },
+  {
+    "timestamp": "2026-10-28T13:51:00+00:00",
+    "error_rate_pct": 0.79,
+    "p95_latency_ms": 291,
+    "memory_mb": 436,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 115
+  },
+  {
+    "timestamp": "2026-10-28T13:52:00+00:00",
+    "error_rate_pct": 0.73,
+    "p95_latency_ms": 260,
+    "memory_mb": 425,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 93
+  },
+  {
+    "timestamp": "2026-10-28T13:53:00+00:00",
+    "error_rate_pct": 0.23,
+    "p95_latency_ms": 335,
+    "memory_mb": 432,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 95
+  },
+  {
+    "timestamp": "2026-10-28T13:54:00+00:00",
+    "error_rate_pct": 0.31,
+    "p95_latency_ms": 308,
+    "memory_mb": 408,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 81
+  },
+  {
+    "timestamp": "2026-10-28T13:55:00+00:00",
+    "error_rate_pct": 0.18,
+    "p95_latency_ms": 316,
+    "memory_mb": 402,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 117
+  },
+  {
+    "timestamp": "2026-10-28T13:56:00+00:00",
+    "error_rate_pct": 0.73,
+    "p95_latency_ms": 298,
+    "memory_mb": 412,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 82
+  },
+  {
+    "timestamp": "2026-10-28T13:57:00+00:00",
+    "error_rate_pct": 0.73,
+    "p95_latency_ms": 379,
+    "memory_mb": 419,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 106
+  },
+  {
+    "timestamp": "2026-10-28T13:58:00+00:00",
+    "error_rate_pct": 0.31,
+    "p95_latency_ms": 390,
+    "memory_mb": 380,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 99
+  },
+  {
+    "timestamp": "2026-10-28T13:59:00+00:00",
+    "error_rate_pct": 0.77,
+    "p95_latency_ms": 293,
+    "memory_mb": 390,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 98
+  },
+  {
+    "timestamp": "2026-10-28T14:00:00+00:00",
+    "error_rate_pct": 0.64,
+    "p95_latency_ms": 366,
+    "memory_mb": 433,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 120
+  },
+  {
+    "timestamp": "2026-10-28T14:01:00+00:00",
+    "error_rate_pct": 0.77,
+    "p95_latency_ms": 382,
+    "memory_mb": 439,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 83
+  },
+  {
+    "timestamp": "2026-10-28T14:02:00+00:00",
+    "error_rate_pct": 34.16,
+    "p95_latency_ms": 383,
+    "memory_mb": 442,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 120
+  },
+  {
+    "timestamp": "2026-10-28T14:03:00+00:00",
+    "error_rate_pct": 35.75,
+    "p95_latency_ms": 289,
+    "memory_mb": 407,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 84
+  },
+  {
+    "timestamp": "2026-10-28T14:04:00+00:00",
+    "error_rate_pct": 38.64,
+    "p95_latency_ms": 372,
+    "memory_mb": 380,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 102
+  },
+  {
+    "timestamp": "2026-10-28T14:05:00+00:00",
+    "error_rate_pct": 44.71,
+    "p95_latency_ms": 386,
+    "memory_mb": 383,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 105
+  },
+  {
+    "timestamp": "2026-10-28T14:06:00+00:00",
+    "error_rate_pct": 31.23,
+    "p95_latency_ms": 254,
+    "memory_mb": 449,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 83
+  },
+  {
+    "timestamp": "2026-10-28T14:07:00+00:00",
+    "error_rate_pct": 35.53,
+    "p95_latency_ms": 405,
+    "memory_mb": 394,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 90
+  },
+  {
+    "timestamp": "2026-10-28T14:08:00+00:00",
+    "error_rate_pct": 41.94,
+    "p95_latency_ms": 394,
+    "memory_mb": 385,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 102
+  },
+  {
+    "timestamp": "2026-10-28T14:09:00+00:00",
+    "error_rate_pct": 44.48,
+    "p95_latency_ms": 319,
+    "memory_mb": 448,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 110
+  },
+  {
+    "timestamp": "2026-10-28T14:10:00+00:00",
+    "error_rate_pct": 37.31,
+    "p95_latency_ms": 340,
+    "memory_mb": 413,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 101
+  },
+  {
+    "timestamp": "2026-10-28T14:11:00+00:00",
+    "error_rate_pct": 36.07,
+    "p95_latency_ms": 312,
+    "memory_mb": 419,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 117
+  },
+  {
+    "timestamp": "2026-10-28T14:12:00+00:00",
+    "error_rate_pct": 31.79,
+    "p95_latency_ms": 387,
+    "memory_mb": 403,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 92
+  },
+  {
+    "timestamp": "2026-10-28T14:13:00+00:00",
+    "error_rate_pct": 34.11,
+    "p95_latency_ms": 263,
+    "memory_mb": 450,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 98
+  },
+  {
+    "timestamp": "2026-10-28T14:14:00+00:00",
+    "error_rate_pct": 36.01,
+    "p95_latency_ms": 268,
+    "memory_mb": 386,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 89
+  },
+  {
+    "timestamp": "2026-10-28T14:15:00+00:00",
+    "error_rate_pct": 43.63,
+    "p95_latency_ms": 326,
+    "memory_mb": 434,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 99
+  },
+  {
+    "timestamp": "2026-10-28T14:16:00+00:00",
+    "error_rate_pct": 40.54,
+    "p95_latency_ms": 366,
+    "memory_mb": 389,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 94
+  },
+  {
+    "timestamp": "2026-10-28T14:17:00+00:00",
+    "error_rate_pct": 40.5,
+    "p95_latency_ms": 319,
+    "memory_mb": 444,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 114
+  },
+  {
+    "timestamp": "2026-10-28T14:18:00+00:00",
+    "error_rate_pct": 34.04,
+    "p95_latency_ms": 260,
+    "memory_mb": 402,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 110
+  },
+  {
+    "timestamp": "2026-10-28T14:19:00+00:00",
+    "error_rate_pct": 34.32,
+    "p95_latency_ms": 352,
+    "memory_mb": 450,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 82
+  },
+  {
+    "timestamp": "2026-10-28T14:20:00+00:00",
+    "error_rate_pct": 41.35,
+    "p95_latency_ms": 410,
+    "memory_mb": 436,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 83
+  },
+  {
+    "timestamp": "2026-10-28T14:21:00+00:00",
+    "error_rate_pct": 30.21,
+    "p95_latency_ms": 354,
+    "memory_mb": 391,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 94
+  },
+  {
+    "timestamp": "2026-10-28T14:22:00+00:00",
+    "error_rate_pct": 36.85,
+    "p95_latency_ms": 287,
+    "memory_mb": 429,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 92
+  },
+  {
+    "timestamp": "2026-10-28T14:23:00+00:00",
+    "error_rate_pct": 34.99,
+    "p95_latency_ms": 389,
+    "memory_mb": 428,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 109
+  },
+  {
+    "timestamp": "2026-10-28T14:24:00+00:00",
+    "error_rate_pct": 37.43,
+    "p95_latency_ms": 259,
+    "memory_mb": 396,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 112
+  },
+  {
+    "timestamp": "2026-10-28T14:25:00+00:00",
+    "error_rate_pct": 39.75,
+    "p95_latency_ms": 334,
+    "memory_mb": 448,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 104
+  },
+  {
+    "timestamp": "2026-10-28T14:26:00+00:00",
+    "error_rate_pct": 34.49,
+    "p95_latency_ms": 257,
+    "memory_mb": 385,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 100
+  },
+  {
+    "timestamp": "2026-10-28T14:27:00+00:00",
+    "error_rate_pct": 43.06,
+    "p95_latency_ms": 408,
+    "memory_mb": 410,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 111
+  },
+  {
+    "timestamp": "2026-10-28T14:28:00+00:00",
+    "error_rate_pct": 42.68,
+    "p95_latency_ms": 300,
+    "memory_mb": 429,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 110
+  },
+  {
+    "timestamp": "2026-10-28T14:29:00+00:00",
+    "error_rate_pct": 41.17,
+    "p95_latency_ms": 262,
+    "memory_mb": 443,
+    "memory_limit_mb": 1024,
+    "requests_per_min": 98
+  }
+]

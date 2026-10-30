@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "pagepal": "./src/pagepal/graph.py:graph"
+  },
+  "env": ".env"
+}
