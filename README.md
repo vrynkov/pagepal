@@ -45,16 +45,19 @@ check that the agent ignores noise. To regenerate the data:
 ## Setup
 
 1. Install [uv](https://docs.astral.sh/uv/) (a fast Python package manager):
-   `curl -LsSf https://astral.sh/uv/install.sh | sh`
+   - Windows: `powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"`
+   - Mac/Linux: `curl -LsSf https://astral.sh/uv/install.sh | sh`
+
+   Then **open a new terminal** and check with `uv --version`.
 2. Install the project:
    ```bash
    uv sync
    ```
    No uv? `python -m venv .venv && source .venv/bin/activate && pip install -e . "langgraph-cli[inmem]" pytest` works too
-   (then drop the `uv run` prefix below).
+   (on Windows activate with `.venv\Scripts\activate`; then drop the `uv run` prefix below).
 3. Add your keys:
    ```bash
-   cp .env.example .env
+   cp .env.example .env      # Windows cmd: copy .env.example .env
    ```
    Put your free Groq key in `GROQ_API_KEY` ([get one here](https://console.groq.com/keys)).
    For LangSmith traces, also set `LANGSMITH_TRACING=true` and `LANGSMITH_API_KEY`.
